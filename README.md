@@ -110,11 +110,6 @@ Analyses long-term unemployment trends across educational levels using official 
 higher-education-labour-market-analysis
 │
 ├── README.md
-├── case-study.pdf
-├── screenshots
-├── python
-├── sql
-└── tableau
 ```
 
 ---
