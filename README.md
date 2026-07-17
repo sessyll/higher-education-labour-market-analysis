@@ -4,8 +4,10 @@ An end-to-end data analytics project exploring long-term labour market outcomes 
 
 **Tools:** Python • PostgreSQL • SQL • Docker • Tableau
 
-🔗 **Interactive Tableau Story:** *https://public.tableau.com/authoring/EducationLevel-LabourMarket/Story1#1
+🔗 **Interactive Tableau Story:** *(https://public.tableau.com/views/EducationLevel-LabourMarket/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *
+Alternative version.(Dutch)
+🔗 **Interactive Tableau Story:** *(https://public.tableau.com/views/HOArbeidStory/eduunemp?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
